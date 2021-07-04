@@ -30,7 +30,7 @@ function setup() {
   carGroup1.add(cars.spt)
 }
 for (var i = 0; i < 40; i++) {
-  log =new Log(2);
+  log =new Log(-2);
   logGroup1.add(log.spt)
 }
 }
